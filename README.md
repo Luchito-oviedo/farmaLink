@@ -1,12 +1,5 @@
-```markdown
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<div align="center"><img src="fondos-pantallapc-gamer.jpg" alt="Imagen de Cabecera"></div>
 
 ## Comenzando
 
@@ -25,8 +18,8 @@ Necesitarás tener el siguiente software instalado en tu máquina:
 1. **Clona el repositorio:**
 
     ```sh
-    git clone [https://github.com/tu-usuario/tu-repo.git](https://github.com/Luchito-oviedo/farmaLink.git)
-    cd tu-repo
+    git clone https://github.com/Luchito-oviedo/farmaLink.git
+    cd farmaLink
     ```
 
 2. **Instala las dependencias:**
@@ -51,8 +44,7 @@ Necesitarás tener el siguiente software instalado en tu máquina:
 
 5. **Configura tu archivo `.env`:**
 
-    Actualiza tu base de datos y otras configuraciones de entorno en el archivo `.env`.
-    con el nombre de la base de datos farmalink
+    Actualiza tu base de datos y otras configuraciones de entorno en el archivo `.env`, con el nombre de la base de datos `farmalink`.
 
 ### Ejecutar Migraciones
 
@@ -75,6 +67,5 @@ Ahora puedes acceder al servidor en `http://localhost:8000`.
 ## Agradecimientos
 
 Muchas gracias por la oportunidad comunidad FarmaLink, 
-Les dejo el script a ejecutar con los datos iniciales para la prueba en la carpeta /scripts.
-
+Les dejo el script a ejecutar con los datos iniciales para la prueba en la carpeta `/scripts`.
 ```
